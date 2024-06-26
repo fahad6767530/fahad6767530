@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Fahad
-#### Wav Deloper
+# Hi there 👋, I'm Fahad
+## Wav Deloper
 ![Wav Deloper](https://pbs.twimg.com/profile_banners/1795538167871000576/1719407076/600x200)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
